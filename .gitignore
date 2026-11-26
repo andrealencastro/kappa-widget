@@ -1,0 +1,10 @@
+# Pacotes gerados para distribuição
+*.zip
+*.crx
+*.pem
+
+# Sistema e editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
